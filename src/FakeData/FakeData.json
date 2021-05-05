@@ -1,0 +1,106 @@
+[{
+  "id": 1,
+  "name": "Virat Kohli",
+  "language": "Hindi",
+  "previous_team": "Royal Challengers Bangalore",
+  "transfer_money": 77265.28,
+  "image": "https://i.postimg.cc/tgMwBLh9/kohli.jpg"
+}, {
+  "id": 2,
+  "name": "AB de Villiers",
+  "language": "Gujarati",
+  "previous_team": "Royal Challengers Bangalore",
+  "transfer_money": 62947.07,
+  "image": "https://i.postimg.cc/T1Cr9XD9/ab-de.png"
+}, {
+  "id": 3,
+  "name": "Quinton de Kock",
+  "language": "Marathi",
+  "previous_team": "Delhi Daredevils",
+  "transfer_money": 68343.38,
+  "image": "https://i.postimg.cc/fLbWdnMZ/Quinton-de-Kock.jpg"
+}, {
+  "id": 4,
+  "name": "Adam Zampa",
+  "language": "English",
+  "previous_team": "Royal Challengers Bangalore ",
+  "transfer_money": 82764.03,
+  "image": "https://i.postimg.cc/Ss84CyHB/adam-zampa.jpg"
+}, {
+  "id": 5,
+  "name": "Glenn Maxwell",
+  "language": "English",
+  "previous_team": "Kings XI Punjab",
+  "transfer_money": 75429.49,
+  "image": "https://i.postimg.cc/656s5L5J/maxwell.jpg"
+}, {
+  "id": 6,
+  "name": "Moeen Ali",
+  "language": "English",
+  "previous_team": "Royal Challengers Bangalore",
+  "transfer_money": 52382.03,
+  "image": "https://i.postimg.cc/zBNt28yZ/moeenali.png"
+}, {
+  "id": 7,
+  "name": "Harshal patel",
+  "language": "Tamil",
+  "previous_team": "Mumbai Indians",
+  "transfer_money": 53706.48,
+  "image": "https://i.postimg.cc/05KRBd29/harshal-patel.jpg"
+}, {
+  "id": 8,
+  "name": "Shakib Al Hasan",
+  "language": "Bangla",
+  "previous_team": "Kolkata Knight Riders",
+  "transfer_money": "61286.91",
+  "image": "https://i.postimg.cc/FHdLf6h2/sakibalhasan.jpg"
+}, {
+  "id": 9,
+  "name": "Harry Gurney",
+  "language": "Hungarian",
+  "previous_team": "Rajasthan Royals",
+  "transfer_money": "83372.72",
+  "image": "https://i.postimg.cc/855D52Sv/harry.png"
+}, {
+  "id": 10,
+  "name": "Robin Uthappa",
+  "language": "Marathi",
+  "previous_team": "Pune Warriors India",
+  "transfer_money": 56600.55,
+  "image": "https://i.postimg.cc/zvw1P8w9/robin.jpg"
+}, {
+  "id": 11,
+  "name": "Chris Morris",
+  "language": "Finish",
+  "previous_team": "Chennai Super Kings",
+  "transfer_money": 58715.10,
+  "image": "https://i.postimg.cc/m2dnZPrm/Chris-Morris.jpg"
+}, {
+  "id": 12,
+  "name": "KC Cariappa",
+  "language": "Hindi",
+  "previous_team": "Kolkata Knight Riders",
+  "transfer_money": 58980.07,
+  "image": "https://i.postimg.cc/hj693q4b/KC-Cariappa.jpg"
+}, {
+  "id": 13,
+  "name": "Jason Holder",
+  "language": "Odia",
+  "previous_team": "Sunrisers Hyderabad",
+  "transfer_money": 76202.72,
+  "image": "https://i.postimg.cc/RZYVtCgR/Jason-Holder.jpg"
+}, {
+  "id": 14,
+  "name": "Khaleel Ahmed",
+  "language": "Hindi",
+  "previous_team": "Sunrisers Hyderabad",
+  "transfer_money": 54158.77,
+  "image": "https://i.postimg.cc/1XdYHd2L/Khaleel-Ahmed.jpg"
+}, {
+  "id": 15,
+  "name": "David Warner",
+  "language": "Bangla",
+  "previous_team": "Sunrisers Hyderabad",
+  "transfer_money": 84475.57,
+  "image": "https://i.postimg.cc/Cx7rrd3G/davidwarner.jpg"
+}]

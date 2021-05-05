@@ -1,0 +1,29 @@
+.player-container {
+  /* width: 62rem; */
+  display: flex;
+  justify-content: space-evenly;
+  border-right: 1px solid gray;
+}
+.imageSizing {
+  width: 200px;
+  height: 180px;
+}
+.imgDiv {
+  border: 2px solid rgb(117, 160, 160);
+  box-shadow: 5px 10px 16px #c4b9b9;
+  margin: 10px;
+  border-radius: 8px;
+}
+.playerDetailsDiv {
+  border: 2px solid gray;
+  box-shadow: 5px 10px 16px #c4b9b9;
+  border-radius: 8px;
+  width: 18rem;
+  padding: 8px;
+  text-align: center;
+  margin: 10px;
+  font-weight: 500;
+}
+.moneyTag {
+  font-weight: bold;
+}
