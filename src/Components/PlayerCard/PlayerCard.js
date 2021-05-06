@@ -1,5 +1,7 @@
 import React from "react";
 import "./PlayerCard.css";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faUserPlus } from "@fortawesome/free-solid-svg-icons";
 
 const PlayerCard = (props) => {
   const { name, language, previous_team, transfer_money, image } = props.detail;
@@ -18,7 +20,7 @@ const PlayerCard = (props) => {
           className="btn btn-danger"
           onClick={() => addPlayer(props.detail)}
         >
-          Get Him
+          <FontAwesomeIcon icon={faUserPlus} /> Get Him
         </button>
       </div>
     </div>

@@ -8,12 +8,14 @@
   width: 200px;
   height: 180px;
 }
+
 .imgDiv {
   border: 2px solid rgb(117, 160, 160);
   box-shadow: 5px 10px 16px #c4b9b9;
   margin: 10px;
   border-radius: 8px;
 }
+
 .playerDetailsDiv {
   border: 2px solid gray;
   box-shadow: 5px 10px 16px #c4b9b9;
@@ -23,6 +25,9 @@
   text-align: center;
   margin: 10px;
   font-weight: 500;
+}
+.playerDetailsDiv button:hover {
+  background-color: rgb(250, 33, 4);
 }
 .moneyTag {
   font-weight: bold;

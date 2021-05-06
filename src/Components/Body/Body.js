@@ -23,7 +23,11 @@ const Body = () => {
 
   return (
     <div>
-      <h1 className="heading">Team selection</h1>
+      <div className="heading">
+        <h1>S.P.L</h1>
+        <h6>Sagorika premier league</h6>
+        <h3>Team selection Page</h3>
+      </div>
       <div className="container">
         <div className="row">
           <div className="col-lg-8">
@@ -40,6 +44,10 @@ const Body = () => {
           </div>
         </div>
       </div>
+      <footer className="footer">
+        {" "}
+        &#169; Copyright reserved to NUR ALLhi 2020-2021
+      </footer>
     </div>
   );
 };

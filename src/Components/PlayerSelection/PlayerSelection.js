@@ -1,4 +1,5 @@
 import React from "react";
+import "./PlayerSelection.css";
 
 const PlayerSelection = (props) => {
   const teamPlayer = props.teamPlayer;
@@ -8,16 +9,17 @@ const PlayerSelection = (props) => {
   );
 
   return (
-    <div>
+    <div className="selectionDiv">
       <h1>Team selection</h1>
-      <h2>Player Added: {teamPlayer.length}</h2>
-      <h2>Total Money: {}</h2>
+      <h3>Player Added: {teamPlayer.length}</h3>
       <ol>
         {teamPlayer.map((data) => (
           <li>{data.name}</li>
         ))}
       </ol>
-      <h4>Total Amount: {totalAmount}</h4>
+      <h5>
+        Total Amount: <span className="totaAmount">{totalAmount}</span>
+      </h5>
     </div>
   );
 };

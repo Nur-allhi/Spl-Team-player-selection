@@ -1,0 +1,9 @@
+.selectionDiv {
+  border: 2px solid gray;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.totaAmount {
+  font-weight: 800;
+}
