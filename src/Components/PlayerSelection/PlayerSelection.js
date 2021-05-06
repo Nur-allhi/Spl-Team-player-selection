@@ -4,7 +4,7 @@ import "./PlayerSelection.css";
 const PlayerSelection = (props) => {
   const teamPlayer = props.teamPlayer;
   const totalAmount = teamPlayer.reduce(
-    (sum, pdata) => sum + pdata.transfer_money,
+    (sum, pdata) => sum + Math.round(pdata.transfer_money),
     0
   );
 
@@ -14,11 +14,13 @@ const PlayerSelection = (props) => {
       <h3>Player Added: {teamPlayer.length}</h3>
       <ol>
         {teamPlayer.map((data) => (
-          <li>{data.name}</li>
+          <li>
+            {data.name} -${data.transfer_money}
+          </li>
         ))}
       </ol>
       <h5>
-        Total Amount: <span className="totaAmount">{totalAmount}</span>
+        Total Amount: <span className="totaAmount">${totalAmount}</span>
       </h5>
     </div>
   );
